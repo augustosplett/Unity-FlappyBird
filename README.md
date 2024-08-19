@@ -7,4 +7,10 @@ I made this with acadamic propouses.
 ## Technologies
 This game was made using unity.
 
+## About the project
+This project was made watching the Game Maker's Toolkit [tutorial](https://www.youtube.com/watch?v=XtQMytORBmM) for beginners.
+
+### Challenges
+In addition to the tutorial I've implemented some of the propoused challenges like the animations for the wing and the game over message if the bird goes of the screen.
+
 
